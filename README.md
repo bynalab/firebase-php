@@ -17,7 +17,7 @@ An example project can be found at https://github.com/jeromegamez/firebase-php-e
 
 ## Feature matrix
 
-| Feature | PHP | Node.js | Java | Python | Go |
+| Feature | Byna PHP | Node.js | Java | Python | Go |
 | --- | :---: | :---: | :---: | :---: | :---: |
 | [Custom Token Minting](https://firebase.google.com/docs/auth/admin/create-custom-tokens) | ✅ | ✅ | ✅ | ✅ | ✅ |
 | [ID Token Verification](https://firebase.google.com/docs/auth/admin/verify-id-tokens)	| ✅ | ✅ | ✅ | ✅ | ✅ |
